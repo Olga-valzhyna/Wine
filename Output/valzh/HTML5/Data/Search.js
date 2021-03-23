@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Description/10_Konsumpcja_wina.htm'],s:['0','odrzucenia','wyprodukowano'],p:[['0',7],['każdej',18],['pożywek',7],['winem',4]]});
